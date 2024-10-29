@@ -1,0 +1,50 @@
+.vid{
+   
+    background-color: #8a904c;
+}
+form{
+    text-align: center;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:1.5rem;
+    padding: 50px;
+    background-color:#d35d2a;
+   
+    position: relative;
+    left: 300px;
+    margin: 10Px;
+    border: 10px double #3D0301;
+    border-radius: 10px;
+
+}
+div{
+    margin-bottom: 10px;
+    align-items: center;
+
+}
+form label{
+    display: inline-block;
+    width:200px;
+    text-align: start;
+    
+}
+form input{
+    font-size: 1.2rem;
+    background-color: #e2bae6;
+}
+fieldset{
+    margin: 10px;
+  }
+button{
+    width: 100px;
+    padding: 5px 0px 5px 0px;
+    margin: 10px;
+    font-size: 1.1rem;
+   display: inline-block;
+   border-radius: 8px;
+ 
+}
+button:hover{
+    box-shadow: 5px 5px 5px black;
+    
+}
